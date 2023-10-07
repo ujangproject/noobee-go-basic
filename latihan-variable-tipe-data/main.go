@@ -10,5 +10,6 @@ func main() {
 
 	total = a + b + c
 
-	fmt.Println(total)
+	fmt.Printf("Total harga belanja: %d\n", total)
+
 }
